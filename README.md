@@ -1,7 +1,9 @@
 # CircularViewPager
 
 An infinitely scrollable viewpager for android.
-![Static](assets/static.gif) ![Fragment](assets/fragment.gif)
+<br>
+<img src="assets/static.gif" width="200">
+<img src="assets/fragment.gif" width="200">
 
 ## Features
 - Supports static layout
