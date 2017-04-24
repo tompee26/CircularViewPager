@@ -14,12 +14,6 @@ An infinitely scrollable viewpager for android.
 In your build.gradle:
 
 ```
-repositories {
-    maven {
-        url  "http://dl.bintray.com/tompee26/Android" 
-    }
-}
-
 dependencies {
    compile 'com.tompee:circular-viewpager:1.0.0'
 }
